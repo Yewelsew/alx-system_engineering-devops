@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((2#$BEST SCHOO
+echo $(($TRUEKNOWLEDGE+ 128))
