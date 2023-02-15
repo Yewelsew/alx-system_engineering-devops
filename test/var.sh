@@ -2,6 +2,6 @@
 declare var='$mess'
 echo "what is the value of mess";
 
-echo $mess;
+cat $mess;
 
 echo var;
