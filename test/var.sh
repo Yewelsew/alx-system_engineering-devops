@@ -1,2 +1,2 @@
 #!/bin/bash
-declare -i var="mess"
+declare -i var=$mess
